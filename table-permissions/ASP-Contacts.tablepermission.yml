@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: contact
+adx_entityname: ASP Contacts
+adx_entitypermission_webrole:
+- b15e5b72-3824-f011-8c4d-6045bdff7c96
+- fa984f60-3824-f011-8c4d-6045bdff7c96
+adx_entitypermissionid: 35994f60-3824-f011-8c4d-6045bdff7c96
+adx_read: true
+adx_scope: 756150000
+adx_write: true

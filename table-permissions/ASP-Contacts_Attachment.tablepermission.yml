@@ -1,0 +1,12 @@
+adx_append: true
+adx_appendto: false
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: ASP Contacts_Attachment
+adx_entitypermissionid: d1ee545a-3824-f011-8c4d-6045bdff7c96
+adx_parententitypermission: 35994f60-3824-f011-8c4d-6045bdff7c96
+adx_parentrelationship: contact_Annotations
+adx_read: false
+adx_scope: 756150003
+adx_write: false

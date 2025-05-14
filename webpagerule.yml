@@ -1,0 +1,60 @@
+- adx_name: Restrict Read on Duplicate Course
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - eb2f5d78-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: 0507636c-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: db2f5d78-3824-f011-8c4d-6045bdff7c96
+- adx_name: Grant Change to Content
+  adx_right: 1
+  adx_scope: 1
+  adx_webpageaccesscontrolruleid: 07805554-3824-f011-8c4d-6045bdff7c96
+- adx_name: Grant Change to Administrators
+  adx_right: 1
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - fa984f60-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: 34994f60-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: 07ef545a-3824-f011-8c4d-6045bdff7c96
+  statecode: 1
+  statuscode: 2
+- adx_name: Restrict Read on C1 Courses Home
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - b15e5b72-3824-f011-8c4d-6045bdff7c96
+  - eb2f5d78-3824-f011-8c4d-6045bdff7c96
+  - fa984f60-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: 5a805554-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: be984f60-3824-f011-8c4d-6045bdff7c96
+- adx_name: Restrict Read on Create Course
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - eb2f5d78-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: 7fee545a-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: f2984f60-3824-f011-8c4d-6045bdff7c96
+- adx_name: Restrict Read on Home
+  adx_right: 2
+  adx_scope: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - eb2f5d78-3824-f011-8c4d-6045bdff7c96
+  - fa984f60-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: f77f5554-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: 07ef545a-3824-f011-8c4d-6045bdff7c96
+  statecode: 1
+  statuscode: 2
+- adx_name: Restrict Read on My Registrations
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - b15e5b72-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: f9ee545a-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: e4ee545a-3824-f011-8c4d-6045bdff7c96
+- adx_name: Restrict Read on Edit Course
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - eb2f5d78-3824-f011-8c4d-6045bdff7c96
+  adx_webpageaccesscontrolruleid: fe7f5554-3824-f011-8c4d-6045bdff7c96
+  adx_webpageid: 49994f60-3824-f011-8c4d-6045bdff7c96
